@@ -1,0 +1,1 @@
+This branch demonstrates how to use the multi-cursor feature in VS code 
